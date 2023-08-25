@@ -2,9 +2,13 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgba(8, 45, 8, 0.83);
 }
-h1{
+
+h1 {
     font-weight: bold;
+    text-align: center;
 }
-img {
-    align: center;
+
+h4{
+    background-color: rgba(8, 45, 8, 0.428);
+    color: black;
 }
