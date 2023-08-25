@@ -1,0 +1,10 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(8, 45, 8, 0.83);
+}
+h1{
+    font-weight: bold;
+}
+img {
+    align: center;
+}
