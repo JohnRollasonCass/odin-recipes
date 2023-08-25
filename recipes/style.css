@@ -1,0 +1,16 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(8, 45, 8, 0.83);
+}
+
+
+.title {
+    font-weight: bold;
+    text-align: center;
+}
+
+.h4 {
+    color: black;
+    text-align: center;
+    
+}
