@@ -1,32 +1,79 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgba(88, 141, 88, 0.83);
+    background-color: #588d58d4;
     display: auto
-
+    box-sizing:border-box; 
 }
 .img {
-    border: 2px solid white;
-    display: block auto;
+    border:solid black;
+    display: block;
+    height:auto;
+    width:auto;
+    margin:12px;
+    margin-left: 20em
 }
 
 
 .title {
-    border: solid white;
+
+    width:auto;
+    height:auto;
+    border:solid black;
     padding: 12px;
-    margin: 12px;
+    margin: 8px;
     display: inline-block auto;
+    background-color: #4c7b4cd4;
     font-weight: bold;
     text-align: center;
 }
 
 .desc {
-    display:block;
+    background-color: #4c7b4cd4;
+    display: block;
     color: black;
-    border: white dotted;
-    
-    
+    border:solid Black;
+    margin:12px;
+    padding: 12px;
+}
+.Ing-title {
+    display: inline-table;
+    border: 2px solid black;
+    margin:12px;
+    height:auto;
+    width:auto;
+    background-color: #4c7b4cd4;
+
+}
+
+.Ingredients {
+    display: inline-table;
+    border: 2px solid black;
+    padding-right:3em;
+    margin:12px;
+    height:auto;
+    width:auto;
+    background-color: #4c7b4cd4;
+}
+
+.Dir-title{
+    display:inline-table;
+    border: 2px solid black;
+    margin: 12px;
+    background-color: #4c7b4cd4
+}
+
+.Dir {
+  display:inline-table;
+  border: 2px solid black;
+  margin:12px;
+  height: auto;
+  width: 33.3em;
+  background-color: #4c7b4cd4; 
 }
 .return {
     color: black;
-    text-align: center
+    text-align: center;
+    border:solid black;
+    display: inline-block auto;
+    margin-left:36em
 }
