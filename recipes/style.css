@@ -1,16 +1,32 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgba(8, 45, 8, 0.83);
+    background-color: rgba(88, 141, 88, 0.83);
+    display: auto
+
+}
+.img {
+    border: 2px solid white;
+    display: block auto;
 }
 
 
 .title {
+    border: solid white;
+    padding: 12px;
+    margin: 12px;
+    display: inline-block auto;
     font-weight: bold;
     text-align: center;
 }
 
-.h4 {
+.desc {
+    display:block;
     color: black;
-    text-align: center;
+    border: white dotted;
     
+    
+}
+.return {
+    color: black;
+    text-align: center
 }
