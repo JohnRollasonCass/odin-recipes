@@ -3,12 +3,14 @@ body {
     background-color: rgba(8, 45, 8, 0.83);
 }
 
-h1 {
+
+.title {
     font-weight: bold;
     text-align: center;
 }
 
-h4{
-    background-color: rgba(8, 45, 8, 0.428);
+.h4 {
     color: black;
+    text-align: center;
+    
 }

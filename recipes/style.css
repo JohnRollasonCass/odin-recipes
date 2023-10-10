@@ -1,7 +1,7 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #588d58d4;
-    display: auto
+    display: auto;
     box-sizing:border-box; 
 }
 .img {
@@ -73,7 +73,6 @@ body {
 .return {
     color: black;
     text-align: center;
-    border:solid black;
     display: inline-block auto;
     margin-left:36em
 }
